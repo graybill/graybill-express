@@ -1,5 +1,5 @@
 Start app:
-> forever start index.js
+> forever start server.js
 
 Stop app:
-> forever stop index.js
+> forever stop server.js
